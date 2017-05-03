@@ -1,0 +1,10 @@
+
+*.pyc
+
+*.csv
+
+*.tfrecords
+
+*.bin
+
+report.txt
